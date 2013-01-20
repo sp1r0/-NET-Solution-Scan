@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameworkInput type="DotNet" xmlns="http://www.ibm.com/FrameworkInput">
+	<WaflFile>C:\AppScan_2013\MvcMusicStore-v3.0-2\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\MvcMusicStore_frameworksCLIDotNet.wafl</WaflFile>
+	<LogConfig>C:\AppScan_2013\MvcMusicStore-v3.0-2\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\MvcMusicStore_frameworksCLIDotNet_waflLogConfig.xml</LogConfig>
+	<HandlerJarDir>D:\Program_Files_IBM\waflgens</HandlerJarDir>
+	<ProjectFile>C:\AppScan_2013\MvcMusicStore-v3.0-2\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\MvcMusicStore.csproj</ProjectFile>
+	<DotNetInfo>
+		<WalaScopeFile>C:\Users\Administrator\AppData\Local\Temp\2\ouncelabs\MvcMusicStore.scope</WalaScopeFile>
+		<Options>
+			<Property name="aspnet.precompile.dir" value="C:\AppScan_2013\MvcMusicStore-v3.0-2\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore"></Property>
+			<Property name="application.file" value="C:\AppScan_2013\MvcMusicStore-v3.0-2\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore.sln"></Property>
+			<Property name="project.configuration" value="Debug|Any CPU"></Property>
+		</Options>
+	</DotNetInfo>
+</FrameworkInput>
