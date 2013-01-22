@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameworkInput type="DotNet" xmlns="http://www.ibm.com/FrameworkInput">
+	<WaflFile>C:\sandbox\dotNET\BlogEngine.NET 1.5 (source)\BlogEngine.Core\BlogEngine.Core_frameworksCLIDotNet.wafl</WaflFile>
+	<LogConfig>C:\sandbox\dotNET\BlogEngine.NET 1.5 (source)\BlogEngine.Core\BlogEngine.Core_frameworksCLIDotNet_waflLogConfig.xml</LogConfig>
+	<HandlerJarDir>C:\Program Files\IBM\AppScan Source\waflgens</HandlerJarDir>
+	<ProjectFile>C:\sandbox\dotNET\BlogEngine.NET 1.5 (source)\BlogEngine.Core\BlogEngine.Core.csproj</ProjectFile>
+	<DotNetInfo>
+		<WalaScopeFile>C:\Documents and Settings\Administrator\Local Settings\Temp\ouncelabs\BlogEngine.Core.scope</WalaScopeFile>
+		<Options>
+			<Property name="aspnet.precompile.dir" value="C:\sandbox\dotNET\BlogEngine.NET 1.5 (source)\BlogEngine.Core"></Property>
+			<Property name="application.file" value="C:\sandbox\dotNET\BlogEngine.NET 1.5 (source)\BlogEngine.NET.sln"></Property>
+			<Property name="project.configuration" value="Debug|Any CPU"></Property>
+		</Options>
+	</DotNetInfo>
+</FrameworkInput>
